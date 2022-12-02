@@ -2,6 +2,7 @@
 
 The Problem 
 ============
+
 Scientists are concerned about the degradation of glaciers in New Zealand. But due to the difficulties of the terrain they are conducting their research using automated drones. For each "drop" they map out an area of the glacier into a rectangle, and drop the drone from a helicopter. The drone is then sent a series of commands which move it through the rectangle and it photographs each location as it goes.
  
 The drones are pretty basic - they can move forward, or they can turn 90 degrees left or right. They can also report their current position and the direction they are facing.
